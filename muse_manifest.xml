@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="valeriame.github.io" resolutions="1x" timestamp="1454190477386">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="valeriamerkusheva.ru" resolutions="1x" timestamp="1454624879590">
   <folder name="css">
-    <file name="site_global.css" crc="453856629"/>
-    <file name="index.css" crc="4230187138" ref="index"/>
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3984988854" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
     <file name="museutils.js" crc="183364071" ref="index"/>
   </folder>
-  <file name="index.html" crc="349958340" seo="true" mt="1454190260073" redirect="true"/>
+  <file name="index.html" crc="349958340" seo="true" mt="1454624793146" redirect="true"/>
 </manifest>
