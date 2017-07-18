@@ -72,5 +72,33 @@ body
 {
 	position: relative;
 	min-width: 1440px;
+
+  /* Location of the image */
+  background-image: url(https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e35/17333405_1417777004927207_5052459897627607040_n.jpg);
+  
+  /* Image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Image doesn't repeat */
+  background-repeat: no-repeat;
+  
+  /* Makes the image fixed in the viewport so that it doesn't move when 
+     the content height is greater than the image height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based on its container's size */
+  background-size: cover;
+  
+  /* Pick a solid background color that will be displayed while the background image is loading */
+  background-color:#992a1a;
+
 }
 
+/* For mobile devices */
+@media only screen and (max-width: 767px) {
+  body {
+    /* The file size of this background image is 93% smaller
+     * to improve page load speed on mobile internet connections */
+    background-image: url(https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e35/17333405_1417777004927207_5052459897627607040_n.jpg);
+  }
+	}
