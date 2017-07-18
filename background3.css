@@ -1,6 +1,4 @@
-/* Responsive Full Background Image Using CSS
- * Tutorial URL: http://sixrevisions.com/css/responsive-background-image/
-*/
+
 body {
   /* Location of the image */
   background-image: url(images/background-photo.jpg);
