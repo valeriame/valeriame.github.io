@@ -1,7 +1,7 @@
 
 body {
   /* Location of the image */
-  background-image: url(images/background-photo.jpg);
+  background-image: url(https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e35/17333405_1417777004927207_5052459897627607040_n.jpg;
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
@@ -29,6 +29,6 @@ body {
   body {
     /* The file size of this background image is 93% smaller
      * to improve page load speed on mobile internet connections */
-    background-image: url(images/background-photo-mobile-devices.jpg);
+    background-image: url(https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e35/17333405_1417777004927207_5052459897627607040_n.jpg);
   }
 	}
